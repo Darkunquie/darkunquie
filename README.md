@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkunique" alt="darkunique" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 
+   Welcome to my GitHub profile! I love working on **Machine Learning and Data Science** projects.
 - 🔭 I’m currently working on **advanced face registration unit**
 
 <h3 align="left">Connect with me:</h3>
