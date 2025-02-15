@@ -3,19 +3,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darkunique&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
- 
   </a>
 </p>
-
 Welcome to my GitHub profile! I love working on **Machine Learning, Deep Learning, and AI-powered applications**.  
 
 💡 **Key Interests**:  
 - 🔭 Currently working on **Advanced Face Registration Unit**  
 - 🌱 Learning **LLMs, Generative AI & Cloud ML Deployment**  
 - 💬 Ask me about **AI, ML, Deep Learning & Data Science**  
-
-<p align="right" style="float:right;"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250"> </p> <div align="left" style="display:inline-block; width:60%">
-
 
 <h3 align="left">🌍 Connect with Me:</h3>
 <p align="left">
