@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Adepu</h1>  
 <p align="center">
   <a href="https://github.com/darkunquie">
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&width=500&lines=AI/ML+Developer+|+Software+Engineer;Data+Science+|+Python+|+FastAPI+Expert;Open-Source+Contributor;Tech+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=20&width=500&lines=AI/ML+Developer+|+Software+Engineer;Data+Science+|+Python;Tech+Enthusiast" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@ Welcome to my GitHub profile! I love working on **Machine Learning, Deep Learnin
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 ## 📊 GitHub Activity Graph
-![](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=darkunquie&theme=react-dark)
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darkunquie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
