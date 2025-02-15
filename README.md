@@ -73,7 +73,8 @@ Welcome to my GitHub profile! I love working on **Machine Learning, Deep Learnin
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 ## 📊 GitHub Activity Graph
-![](https://github-readme-activity-graph.cyclic.app/graph?username=darkunquie&theme=react-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username==darkunquie&theme=react-dark)
+
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darkunquie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
