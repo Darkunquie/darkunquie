@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I love working on **Machine Learning, Deep Learnin
 - 🔭 Currently working on **Advanced Face Registration Unit**  
 - 🌱 Learning **LLMs, Generative AI & Cloud ML Deployment**  
 - 💬 Ask me about **AI, ML, Deep Learning & Data Science**  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300">
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300">
 </p>
 
 
