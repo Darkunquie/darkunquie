@@ -2,11 +2,7 @@
 <h3 align="center">###🚀 Artifical intelligence and data science  | AI Enthusiast | A passionate AI/ML developer from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkunique&label=Profile%20views&color=0e75b6&style=flat" alt="darkunique" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkunique" alt="darkunique" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
    Welcome to my GitHub profile! I love working on **Machine Learning and Data Science** projects.
 - 🔭 I’m currently working on **advanced face registration unit**
