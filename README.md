@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Adepu</h1>  
 <p align="center">
   <a href="https://github.com/darkunquie">
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&width=500&lines=AI/ML+Developer+|+Data+Science+|+Python+|+Tech+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=20&width=500&lines=AI/ML+Developer+|+Data+Science+|+Python+|;+Tech+Enthusiast" />
   </a>
 </p>
 
