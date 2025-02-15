@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I love working on **Machine Learning, Deep Learnin
 - 🌱 Learning **LLMs, Generative AI & Cloud ML Deployment**  
 - 💬 Ask me about **AI, ML, Deep Learning & Data Science**  
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300">
 </p>
 
 
