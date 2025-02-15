@@ -1,13 +1,25 @@
-<h1 align="center">Hi 👋, I'm yashwanth adepu</h1>
-<h3 align="center">###🚀 Artifical intelligence and data science  | AI Enthusiast | A passionate AI/ML developer from India </h3>
+<h1 align="center">Hi 👋, I'm Yashwanth Adepu</h1>  
+<h3 align="center">🚀 Artificial Intelligence & Data Science Enthusiast | AI/ML Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkunique&label=Profile%20views&color=0e75b6&style=flat" alt="darkunique" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darkunique&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/yourtwitterhandle?style=for-the-badge" alt="Twitter Followers"/>
+  </a>
+</p>
 
-   Welcome to my GitHub profile! I love working on **Machine Learning and Data Science** projects.
-- 🔭 I’m currently working on **advanced face registration unit**
+Welcome to my GitHub profile! I love working on **Machine Learning, Deep Learning, and AI-powered applications**.  
 
-<h3 align="left">Connect with me:</h3>
+💡 **Key Interests**:  
+- 🔭 Currently working on **Advanced Face Registration Unit**  
+- 🌱 Learning **LLMs, Generative AI & Cloud ML Deployment**  
+- 💬 Ask me about **AI, ML, Deep Learning & Data Science**  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
+</p>
+
+
+<h3 align="left">🌍 Connect with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yashwanth-adepu-a5550722b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashwanth-adepu-a5550722b/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yashwanth_7202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashwanth_7202" height="30" width="40" /></a>
